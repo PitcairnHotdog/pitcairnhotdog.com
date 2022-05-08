@@ -1,1 +1,1 @@
-# Hotdog-s-Website
+# Source code of pitcairnhotdog.com
