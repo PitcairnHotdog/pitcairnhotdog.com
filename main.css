@@ -113,11 +113,14 @@ body {
     margin-left: 9.5rem;
 }
 .nav-option {
-    color:#ececec;
+    color:#dddddd;
     line-height: 3.2rem;
     text-decoration-line: none;
     font-family: Californian FB;
     font-size: 32px;
+}
+.nav-option:hover {
+    color: #ffffff;
 }
 #home-text-container {
     position: absolute;
@@ -160,12 +163,14 @@ body {
     text-align: center;
 }
 .nav-bottom-option {
-    z-index: 999;
-    color:#ececec;
+    color:#dddddd;
     line-height: 4rem;
     text-decoration-line: none;
     font-family: Californian FB;
     font-size: 24px;
+}
+.nav-bottom-option:hover {
+    color: #ffffff;
 }
 .nav-bottom-option::after {
     margin-left: 5px;
